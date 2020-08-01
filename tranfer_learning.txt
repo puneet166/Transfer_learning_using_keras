@@ -1,0 +1,14 @@
+
+This all predefine and preimplement model for transfer learning...
+
+
+1.Keras Applications
+2.Xception
+3.EfficientNet B0 to B7
+4.VGG16 and VGG19
+5.ResNet and ResNetV2
+6.MobileNet and MobileNetV2
+7.DenseNet
+8.NasNetLarge and NasNetMobile
+9.InceptionV3
+10.InceptionResNetV2
